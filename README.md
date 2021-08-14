@@ -41,12 +41,14 @@ Se cargan los datos y solo se cambian formatos de fecha y codificaciones para su
 
 ### Analisis exploratorio
 
-Analisis con R
+Analisis con R (<em><a href="AnalisisExploratorioProyecto.R">code</a>)</em></strong> </summary>
+
 Se comienza con un analisis simple en lenguaje R
 Se revisan los datos y comenzamos con un par de graficas para visualizar tendencias
 Intentamos un analisis con series de tiempo para aprovechar las multiples fechas que se recopilan en los datos pero no se logro concluir este analisis 
 
-Analisis con python
+Analisis con python (<em><a href="AnalisisProyectoImpacto.ipynb">code</a>)</em></strong> </summary>
+
 Se realiza un analisis un poco mas detallado con pandas en python con medidas de tendencia se generan graficas mas complejas para la interpretacion del comportamiento, visualizacion del impacto en mapas cloropleticos
 ### Conclusiones 
 
